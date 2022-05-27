@@ -1,0 +1,126 @@
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\appsettings.json
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\onChat.exe
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\onChat.deps.json
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\onChat.runtimeconfig.json
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\onChat.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\onChat.pdb
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.csproj.AssemblyReference.cache
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.AssemblyInfoInputs.cache
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.AssemblyInfo.cs
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.csproj.CoreCompileInputs.cache
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\scopedcss\bundle\onChat.styles.css
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.csproj.CopyComplete
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\refint\onChat.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.pdb
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\onChat.genruntimeconfig.cache
+C:\Users\Or Nasri\source\repos\onChat\onChat\obj\Debug\net6.0\ref\onChat.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Or Nasri\source\repos\onChat\onChat\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\appsettings.json
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\onChat.exe
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\onChat.deps.json
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\onChat.runtimeconfig.json
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\onChat.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\onChat.pdb
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.csproj.AssemblyReference.cache
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.AssemblyInfoInputs.cache
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.AssemblyInfo.cs
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.csproj.CoreCompileInputs.cache
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\scopedcss\bundle\onChat.styles.css
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.csproj.CopyComplete
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\refint\onChat.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.pdb
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\onChat.genruntimeconfig.cache
+C:\Users\noabe\Source\Repos\onChatNew\onChat\obj\Debug\net6.0\ref\onChat.dll
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\libman.json
+C:\Users\noabe\Source\Repos\onChatNew\onChat\bin\Debug\net6.0\lib\microsoft\signalr\package.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\appsettings.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\libman.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\lib\microsoft\signalr\package.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\onChat.exe
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\onChat.deps.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\onChat.runtimeconfig.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\onChat.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\onChat.pdb
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.csproj.AssemblyReference.cache
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.AssemblyInfoInputs.cache
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.AssemblyInfo.cs
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.csproj.CoreCompileInputs.cache
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\scopedcss\bundle\onChat.styles.css
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.csproj.CopyComplete
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\refint\onChat.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.pdb
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\onChat.genruntimeconfig.cache
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\obj\Debug\net6.0\ref\onChat.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nahma\Source\Repos\last-server---27-05-02-20-\onChat\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\appsettings.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\libman.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\lib\microsoft\signalr\package.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\onChat.exe
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\onChat.deps.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\onChat.runtimeconfig.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\onChat.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\onChat.pdb
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.csproj.AssemblyReference.cache
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.AssemblyInfoInputs.cache
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.AssemblyInfo.cs
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.csproj.CoreCompileInputs.cache
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\scopedcss\bundle\onChat.styles.css
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.csproj.CopyComplete
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\refint\onChat.dll
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.pdb
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\onChat.genruntimeconfig.cache
+C:\Users\noabe\source\repos\div-server\div server\onChat\obj\Debug\net6.0\ref\onChat.dll
